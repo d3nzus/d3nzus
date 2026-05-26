@@ -1,4 +1,7 @@
-## Hi there 👋
+### I'm Renz
+Developer studying Computer Science at the University of the Philippines - Visayas
+
+
 
 <!--
 **d3nzus/d3nzus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
