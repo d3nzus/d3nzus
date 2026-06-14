@@ -1,6 +1,9 @@
 ### I'm Renz
 
 ##### Web Developer studying at University of the Philippines Visayas
+##### I am a firm believer in the value of accessible and open-source software. I also believe in the power of computers to contribute to the human race.
+
+#### "Full-Stack Development for the People, by the People"
 ---
 
 <p align="left">
