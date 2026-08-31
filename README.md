@@ -15,7 +15,10 @@ I'm a firm believer in accessible, open-source software — and in the power of 
 💡 Open to collaborating on open-source tools
 
 📊 GitHub Stats
-<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=d3nzus&hide_border=true" height="165"/> </p>
+<p align="left"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d3nzus/"></br>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=d3nzus"/>
+</p>
 
 📫 Reach Me
 <p align="left"> <a href="mailto:d3nzus@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/renz-banas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> </p>
