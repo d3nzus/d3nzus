@@ -1,6 +1,8 @@
-<h1 align="center">Hi! My name is Renz!</h1>
-<h5 align="center">Aspiring Web and Software Developer studying at UP Visayas</h5>
-<h5 align="center"><a href="https://d3nzus.github.io/">Portfolio</a></h5>
+<div align="center">
+  <h1>𝐇𝐞𝐥𝐥𝐨! My name is 𝐑𝐞𝐧𝐳!</h1>
+ᴀꜱᴘɪʀɪɴɢ ᴡᴇʙ ᴀɴᴅ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜱᴛᴜᴅʏɪɴɢ ᴀᴛ ᴜᴘ ᴠɪꜱᴀʏᴀꜱ </br>
+Check out my work <a href="https://d3nzus.github.io/">here</a>!
+</div>
 
 ---
 <p align="justify">  I am someone who’s passionate when it comes to accessible and open-source technologies and the belief that computer science as a field should be used for the benefit and perpetuation of the human race. </br>   As a student developer, I push myself to create tools that not only function as intended but are easy, convenient and fun for the user. I hope to continue learning and honing my skills moving forward.
