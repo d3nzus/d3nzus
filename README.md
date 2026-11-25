@@ -52,8 +52,7 @@ I build web and software tools that are easy, convenient, and fun to use. I care
 <img alt="GitHub streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=d3nzus/"/>
 <br/>
 <img alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=d3nzus"/>
+
 ## Contact
  
-<a href="mailto:d3nzus@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> [Email: d3nzus@gmail.com](mailto:d3nzus@gmail.com)
- 
-<a href="https://www.linkedin.com/in/renz-banas/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> [LinkedIn: renz-banas](https://www.linkedin.com/in/renz-banas/)
+<a href="mailto:d3nzus@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/renz-banas/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
